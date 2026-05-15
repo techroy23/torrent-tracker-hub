@@ -1,0 +1,38 @@
+name: Download Trackers
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install fake-useragent python-dotenv
+
+      - name: Run download script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python scripts/download_trackers.py
+
+      - name: Commit and push
+        env:
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          GIT_NAME: ${{ secrets.GIT_NAME }}
+        run: |
+          git config --local user.email "$GIT_EMAIL"
+          git config --local user.name "$GIT_NAME"
+          git add output/
+          DATE=$(date +%m-%d-%Y)
+          git diff --staged --quiet || git commit -m "Update trackers $DATE"
+          git push
