@@ -68,7 +68,7 @@ The `whitelist.txt` file contains domain entries in AdBlock format (`@@||domain^
 **Usage:**
 - **AdBlock / uBlock Origin**: Settings > Filter lists > Custom > Import
 - **AdGuard**: Settings > Filters > User filter
-- **DNS apps** (e.g., AdGuard DNS, NextDNS, Control D): Import as custom blocklist
+- **DNS apps** (e.g., AdGuard DNS, NextDNS, Control D): Import as custom
 
 ## GitHub Actions
 
