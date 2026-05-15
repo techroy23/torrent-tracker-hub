@@ -13,6 +13,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,14 +31,13 @@ jobs:
         run: python scripts/download_trackers.py
 
       - name: Commit and push
-        env:
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GIT_NAME: ${{ secrets.GIT_NAME }}
         run: |
-          git config --local user.email "$GIT_EMAIL"
-          git config --local user.name "$GIT_NAME"
-          git pull --rebase origin main
-          git add -f output/
-          DATE=$(date +%m-%d-%Y)
-          git diff --staged --quiet || git commit -m "Update trackers $DATE"
-          git push
+          git config --local user.email "${{ vars.GIT_USER_EMAIL || 'github-actions[bot]@users.noreply.github.com' }}"
+          git config --local user.name "${{ vars.GIT_USER_NAME || 'github-actions[bot]' }}"
+          git add -A
+          if git diff --staged --stat | grep -q .; then
+            git commit -m "Update trackers $(date -u +'%Y-%m-%d')"
+            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
+          else
+            echo "No changes to push"
+          fi
