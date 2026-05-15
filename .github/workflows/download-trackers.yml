@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "$GIT_EMAIL"
           git config --local user.name "$GIT_NAME"
-          git add output/
+          git add -f output/
           DATE=$(date +%m-%d-%Y)
           git diff --staged --quiet || git commit -m "Update trackers $DATE"
           git push
