@@ -1,7 +1,5 @@
 udp://0205.uptm.ch:6969/announce
 
-udp://10.rarbg.com/announce
-
 udp://10.rarbg.com:6969/announce
 
 udp://10.rarbg.me:80/announce
@@ -66,11 +64,7 @@ udp://109.248.43.36:6969/announce
 
 udp://109.72.83.214:80/announce
 
-udp://11.rarbg.com/announce
-
 udp://11.rarbg.com:80/announce
-
-udp://11.rarbg.me/announce
 
 udp://110.187.214.10:6969/announce
 
@@ -2236,8 +2230,6 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-udp://ipv4.tracker.harry.lu/announce
-
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -2257,8 +2249,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.govt.hu:6969/announce
 
 udp://ipv6.rer.lol:6969/announce
-
-udp://ipv6.tracker.harry.lu/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
@@ -2466,8 +2456,6 @@ udp://open.nyap2p.com:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://open.stealth.si/announce
-
 udp://open.stealth.si:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -2531,8 +2519,6 @@ udp://play.aimisayo.com:6969/announce
 udp://pornleech.com:2710/announce
 
 udp://pornograd.net:80/announce
-
-udp://pow7.com/announce
 
 udp://pow7.com:80/announce
 
@@ -2607,8 +2593,6 @@ udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.telecom.kz:80/announce
-
-udp://retracker01-msk-virt.corbina.net/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -2848,8 +2832,6 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.acg.gg:2710/announce
 
-udp://tracker.acgnx.se/announce
-
 udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
@@ -2911,8 +2893,6 @@ udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
-
-udp://tracker.coppersurfer.tk/announce
 
 udp://tracker.coppersurfer.tk:1337/announce
 
@@ -3178,8 +3158,6 @@ udp://tracker.open-data.network:8888/announce
 
 udp://tracker.open-internet.nl:6969/announce
 
-udp://tracker.openbittorrent.com/announce
-
 udp://tracker.openbittorrent.com:1337/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -3210,13 +3188,9 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.pomf.se/announce
-
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.port443.xyz:6969/announce
-
-udp://tracker.prq.to/announce
 
 udp://tracker.prq.to:6969/announce
 
@@ -3386,8 +3360,6 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
-udp://tracker.yify-torrents.com/announce
-
 udp://tracker.yify-torrents.com:6969/announce
 
 udp://tracker.yify-torrents.com:80/announce
@@ -3395,8 +3367,6 @@ udp://tracker.yify-torrents.com:80/announce
 udp://tracker.ykat.xyz:6969/announce
 
 udp://tracker.yoshi210.com:6969/announce
-
-udp://tracker.yts.re/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -3418,8 +3388,6 @@ udp://tracker.zupix.online:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -3433,8 +3401,6 @@ udp://tracker1.wasabii.com.tw:6969/announce
 udp://tracker1.xku.tv:6969/announce
 
 udp://tracker2.christianbro.pw:6969/announce
-
-udp://tracker2.dler.com/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -3629,3 +3595,37 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 
 udp://zer0day.to:1337/announce
+
+udp://10.rarbg.com/announce
+
+udp://11.rarbg.com/announce
+
+udp://11.rarbg.me/announce
+
+udp://ipv4.tracker.harry.lu/announce
+
+udp://ipv6.tracker.harry.lu/announce
+
+udp://open.stealth.si/announce
+
+udp://pow7.com/announce
+
+udp://retracker01-msk-virt.corbina.net/announce
+
+udp://tracker.acgnx.se/announce
+
+udp://tracker.coppersurfer.tk/announce
+
+udp://tracker.openbittorrent.com/announce
+
+udp://tracker.pomf.se/announce
+
+udp://tracker.prq.to/announce
+
+udp://tracker.yify-torrents.com/announce
+
+udp://tracker.yts.re/announce
+
+udp://tracker1.bt.moack.co.kr/announce
+
+udp://tracker2.dler.com/announce
