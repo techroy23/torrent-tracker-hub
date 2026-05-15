@@ -8,12 +8,12 @@ Aggregated torrent tracker lists from multiple sources. Updated automatically vi
 
 | Type | URL |
 |------|-----|
-| All Trackers | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_all.txt |
-| HTTP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_http.txt |
-| HTTPS | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_https.txt |
-| UDP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_udp.txt |
-| WebSocket | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_ws.txt |
-| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt |
+| All Trackers | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_all.txt |
+| HTTP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_http.txt |
+| HTTPS | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_https.txt |
+| UDP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_udp.txt |
+| WebSocket | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_ws.txt |
+| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/whitelist.txt |
 
 ## Sources
 
