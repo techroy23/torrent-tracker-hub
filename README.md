@@ -6,13 +6,13 @@ Aggregated torrent tracker lists from multiple sources. Updated automatically vi
 
 ## Download Links
 
-| Type | URL |
+| Type | LINK |
 |------|-----|
-| All Trackers | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_all.txt |
-| HTTP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_http.txt |
-| HTTPS | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_https.txt |
-| UDP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_udp.txt |
-| WebSocket | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_ws.txt |
+| All Trackers | [trackers_all](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_all.txt) |
+| HTTP | [trackers_http](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_http.txt) |
+| HTTPS | [trackers_https](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_https.txt) |
+| UDP | [trackers_udp](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_udp.txt) |
+| WebSocket | [trackers_ws](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/trackers_ws.txt) |
 
 ## Sources
 
@@ -26,9 +26,9 @@ Aggregated torrent tracker lists from multiple sources. Updated automatically vi
 
 The `whitelist.txt` file contains AdBlock-compatible allowlist entries for torrent trackers.
 
-| File | Raw URL |
+| File | LINK |
 |------|---------|
-| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/whitelist.txt |
+| Whitelist.txt | [whitelist](https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/refs/heads/main/output/whitelist.txt) |
 
 ### Supported Applications
 
