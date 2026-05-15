@@ -71,6 +71,29 @@ def write_trackers(trackers, filename):
             if i < len(trackers) - 1:
                 f.write("\n")
 
+def write_whitelist(whitelist, filename):
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("\n".join(whitelist))
+
+def create_whitelist(trackers):
+    whitelist = []
+    seen = set()
+    for tracker in trackers:
+        host = tracker.split("://")[1] if "://" in tracker else tracker
+        host = host.split("/")[0]
+        if host.startswith("["):
+            continue
+        if ":" in host:
+            host = host.split(":")[0]
+        if host and not host[0].isdigit():
+            entry = f"@@||{host}^$important"
+            if entry not in seen:
+                seen.add(entry)
+                whitelist.append(entry)
+        elif host and not any(c.isalpha() for c in host.split(".")[0] if host):
+            continue
+    return sorted(whitelist)
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -101,6 +124,10 @@ def main():
 
     write_trackers(categorized["ws"], f"{OUTPUT_DIR}/trackers_ws.txt")
     print(f"Wrote {len(categorized['ws'])} trackers to {OUTPUT_DIR}/trackers_ws.txt")
+
+    whitelist = create_whitelist(unique_trackers)
+    write_whitelist(whitelist, f"{OUTPUT_DIR}/whitelist.txt")
+    print(f"Wrote {len(whitelist)} entries to {OUTPUT_DIR}/whitelist.txt")
 
 if __name__ == "__main__":
     main()
