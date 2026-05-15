@@ -42,10 +42,12 @@ def fetch_url(url):
         return response.read().decode("utf-8")
 
 def categorize_trackers(trackers):
+    udp_ip = []
+    udp_domain = []
+    ws_trackers = []
+    wss_trackers = []
     http_trackers = []
     https_trackers = []
-    udp_trackers = []
-    ws_trackers = []
 
     for tracker in trackers:
         lower = tracker.lower()
@@ -54,15 +56,23 @@ def categorize_trackers(trackers):
         elif lower.startswith("https://"):
             https_trackers.append(tracker)
         elif lower.startswith("udp://"):
-            udp_trackers.append(tracker)
-        elif lower.startswith("ws://") or lower.startswith("wss://"):
+            host = tracker.split("://")[1].split("/")[0]
+            if host.replace(".", "").isdigit() or ":" in host:
+                udp_ip.append(tracker)
+            else:
+                udp_domain.append(tracker)
+        elif lower.startswith("ws://"):
             ws_trackers.append(tracker)
+        elif lower.startswith("wss://"):
+            wss_trackers.append(tracker)
 
     return {
+        "udp_ip": sorted(udp_ip),
+        "udp_domain": sorted(udp_domain),
+        "ws": sorted(ws_trackers),
+        "wss": sorted(wss_trackers),
         "http": sorted(http_trackers),
-        "https": sorted(https_trackers),
-        "udp": sorted(udp_trackers),
-        "ws": sorted(ws_trackers)
+        "https": sorted(https_trackers)
     }
 
 def write_trackers(trackers, filename):
@@ -111,10 +121,17 @@ def main():
     unique_trackers = list(OrderedDict.fromkeys(trackers))
     unique_trackers.sort()
 
-    write_trackers(unique_trackers, f"{OUTPUT_DIR}/trackers_all.txt")
-    print(f"Wrote {len(unique_trackers)} trackers to {OUTPUT_DIR}/trackers_all.txt")
-
     categorized = categorize_trackers(unique_trackers)
+    all_trackers = (
+        categorized["udp_ip"] +
+        categorized["udp_domain"] +
+        categorized["ws"] +
+        categorized["wss"] +
+        categorized["http"] +
+        categorized["https"]
+    )
+    write_trackers(all_trackers, f"{OUTPUT_DIR}/trackers_all.txt")
+    print(f"Wrote {len(all_trackers)} trackers to {OUTPUT_DIR}/trackers_all.txt")
 
     write_trackers(categorized["http"], f"{OUTPUT_DIR}/trackers_http.txt")
     print(f"Wrote {len(categorized['http'])} trackers to {OUTPUT_DIR}/trackers_http.txt")
@@ -122,11 +139,13 @@ def main():
     write_trackers(categorized["https"], f"{OUTPUT_DIR}/trackers_https.txt")
     print(f"Wrote {len(categorized['https'])} trackers to {OUTPUT_DIR}/trackers_https.txt")
 
-    write_trackers(categorized["udp"], f"{OUTPUT_DIR}/trackers_udp.txt")
-    print(f"Wrote {len(categorized['udp'])} trackers to {OUTPUT_DIR}/trackers_udp.txt")
+    udp_all = categorized["udp_ip"] + categorized["udp_domain"]
+    write_trackers(udp_all, f"{OUTPUT_DIR}/trackers_udp.txt")
+    print(f"Wrote {len(udp_all)} trackers to {OUTPUT_DIR}/trackers_udp.txt")
 
-    write_trackers(categorized["ws"], f"{OUTPUT_DIR}/trackers_ws.txt")
-    print(f"Wrote {len(categorized['ws'])} trackers to {OUTPUT_DIR}/trackers_ws.txt")
+    ws_all = categorized["ws"] + categorized["wss"]
+    write_trackers(ws_all, f"{OUTPUT_DIR}/trackers_ws.txt")
+    print(f"Wrote {len(ws_all)} trackers to {OUTPUT_DIR}/trackers_ws.txt")
 
     whitelist = create_whitelist(unique_trackers)
     write_whitelist(whitelist, f"{OUTPUT_DIR}/whitelist.txt")
