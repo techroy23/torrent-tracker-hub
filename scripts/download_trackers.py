@@ -74,7 +74,7 @@ def write_trackers(trackers, filename):
 
 def write_whitelist(whitelist, filename):
     date = datetime.now().strftime("%m-%d-%Y")
-    header = f"[Adblock Plus]\n! Title: Techroy23 Torrent Tracker Whitelist\n! Description: Whitelisted domains\n! Homepage: https://github.com/techroy23/torrent-tracker-hub\n! Updated: {date}\n"
+    header = f"[Adblock Plus]\n! Title: Techroy23 Torrent Tracker Whitelist\n! Description: Whitelisted domains\n! Homepage: https://github.com/techroy23/torrent-tracker-hub\n! Updated: {date}\n\n"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(header + "\n".join(whitelist))
 
