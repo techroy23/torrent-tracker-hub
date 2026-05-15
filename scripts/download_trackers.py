@@ -1,6 +1,7 @@
 import urllib.request
 import os
 from collections import OrderedDict
+from datetime import datetime
 from fake_useragent import UserAgent
 from dotenv import load_dotenv
 
@@ -72,8 +73,10 @@ def write_trackers(trackers, filename):
                 f.write("\n")
 
 def write_whitelist(whitelist, filename):
+    date = datetime.now().strftime("%m-%d-%Y")
+    header = f"[Adblock Plus]\n! Title: Techroy23 Torrent Tracker Whitelist\n! Description: Whitelisted domains\n! Homepage: https://github.com/techroy23/torrent-tracker-hub\n! Updated: {date}\n"
     with open(filename, "w", encoding="utf-8") as f:
-        f.write("\n".join(whitelist))
+        f.write(header + "\n".join(whitelist))
 
 def create_whitelist(trackers):
     whitelist = []
