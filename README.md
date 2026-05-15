@@ -1,44 +1,40 @@
 # Torrent Tracker Hub
 
-Aggregated torrent tracker list from multiple sources.
+[![Download Trackers](https://github.com/techroy23/torrent-tracker-hub/actions/workflows/download-trackers.yml/badge.svg)](https://github.com/techroy23/torrent-tracker-hub/actions/workflows/download-trackers.yml)
+
+Aggregated torrent tracker lists from multiple sources. Updated automatically via GitHub Actions.
+
+## Download Links
+
+| Type | URL |
+|------|-----|
+| All Trackers | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_all.txt |
+| HTTP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_http.txt |
+| HTTPS | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_https.txt |
+| UDP | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_udp.txt |
+| WebSocket | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_ws.txt |
+| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt |
 
 ## Sources
 
-1. **ngosang/trackerslist**
-   - URL: https://github.com/ngosang/trackerslist
-   - Files: `trackers_all.txt`, `trackers_all_ip.txt`
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
+- [trackerslist.com](https://trackerslist.com/)
+- [lighting9999/tracker-project](https://github.com/lighting9999/tracker-project)
+- [NewTrackon](https://newtrackon.com/)
+- [Trackers.run](https://trackers.run/)
 
-2. **trackerslist.com**
-   - URL: https://trackerslist.com/
-   - Files: `best.txt`, `all.txt`, `http.txt`, `nohttp.txt`
+## Whitelist
 
-3. **lighting9999/tracker-project**
-   - URL: https://github.com/lighting9999/tracker-project
-   - Files: `trackers_all.txt`, `trackers_best.txt`, `trackers_best_dual.txt`, `trackers_best_http.txt`, `trackers_best_https.txt`, `trackers_best_ipv4.txt`, `trackers_best_ipv6.txt`, `trackers_best_udp.txt`, `trackers_best_ws.txt`, `trackers_best_wss.txt`
+The `whitelist.txt` file contains AdBlock-compatible allowlist entries for torrent trackers.
 
-4. **NewTrackon**
-   - URL: https://newtrackon.com/
-   - API: `https://newtrackon.com/api/all`
+### Supported Applications
 
-5. **Trackers.run**
-   - URL: https://trackers.run/
-   - File: `wp_ws_up_hp_hs_v4_v6.txt`
+- uBlock Origin / uBlock Origin Lite
+- AdGuard Browser Assistant
+- AdGuard DNS, NextDNS, Control D and other DNS apps
 
-## Download Raw Files
+## Local Usage
 
-Direct download links (use in torrent clients):
-
-| File | Raw URL |
-|------|---------|
-| All Trackers | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_all.txt |
-| HTTP Only | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_http.txt |
-| HTTPS Only | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_https.txt |
-| UDP Only | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_udp.txt |
-| WebSocket | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/trackers_ws.txt |
-
-## Usage
-
-Run locally:
 ```bash
 pip install fake-useragent python-dotenv
 cp .env.example .env
@@ -46,33 +42,12 @@ cp .env.example .env
 python scripts/download_trackers.py
 ```
 
-## Output
-
-Output files in `output/`:
-- `trackers_all.txt` - All trackers (sorted, deduplicated)
-- `trackers_http.txt` - HTTP trackers only
-- `trackers_https.txt` - HTTPS trackers only
-- `trackers_udp.txt` - UDP trackers only
-- `trackers_ws.txt` - WebSocket trackers (ws://, wss://)
-
-All files have blank lines between entries.
-
-## Whitelist
-
-The `whitelist.txt` file contains domain entries in AdBlock format (`@@||domain^$important`) to allowlist torrent trackers in ad blockers / DNS apps that support AdBlock-style filters.
-
-| File | Raw URL |
-|------|---------|
-| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt |
-
-**Usage:**
-- **AdBlock / uBlock Origin**: Settings > Filter lists > Custom > Import
-- **AdGuard**: Settings > Filters > User filter
-- **DNS apps** (e.g., AdGuard DNS, NextDNS, Control D): Import as custom
-
 ## GitHub Actions
 
-The workflow runs automatically on push to main and hourly via schedule.
+The workflow runs:
+- On every push to main
+- Hourly on schedule
+- Manually via workflow dispatch
 
 ## License
 
