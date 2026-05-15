@@ -59,11 +59,16 @@ All files have blank lines between entries.
 
 ## Whitelist
 
-The `whitelist.txt` file contains domain entries in AdBlock format (`@@||domain^$important`) to allowlist torrent trackers in ad blockers.
+The `whitelist.txt` file contains domain entries in AdBlock format (`@@||domain^$important`) to allowlist torrent trackers in ad blockers / DNS apps that support AdBlock-style filters.
+
+| File | Raw URL |
+|------|---------|
+| Whitelist | https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt |
 
 **Usage:**
-- **uBlock Origin / uBlock Origin Lite**: Go to Settings > Filter lists > Custom > Import and paste the raw URL: `https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt`
-- **AdGuard Browser Assistant**: Add to user filter rules
+- **AdBlock / uBlock Origin**: Settings > Filter lists > Custom > Import
+- **AdGuard**: Settings > Filters > User filter
+- **DNS apps** (e.g., AdGuard DNS, NextDNS, Control D): Import as custom blocklist
 
 ## GitHub Actions
 
