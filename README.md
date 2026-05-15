@@ -57,6 +57,14 @@ Output files in `output/`:
 
 All files have blank lines between entries.
 
+## Whitelist
+
+The `whitelist.txt` file contains domain entries in AdBlock format (`@@||domain^$important`) to allowlist torrent trackers in ad blockers.
+
+**Usage:**
+- **uBlock Origin / uBlock Origin Lite**: Go to Settings > Filter lists > Custom > Import and paste the raw URL: `https://raw.githubusercontent.com/techroy23/torrent-tracker-hub/main/output/whitelist.txt`
+- **AdGuard Browser Assistant**: Add to user filter rules
+
 ## GitHub Actions
 
 The workflow runs automatically on push to main and hourly via schedule.
