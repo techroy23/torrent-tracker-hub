@@ -1458,6 +1458,7 @@
 @@||v2.iperson.xyz^$important
 @@||v6-tracker.0g.cx^$important
 @@||v6.nyaatorrents.info^$important
+@@||v6.vito-tracker.space^$important
 @@||v74853.hosted-by-vdsina.com^$important
 @@||valakas.rollo.dnsabr.com^$important
 @@||vibe.community^$important
