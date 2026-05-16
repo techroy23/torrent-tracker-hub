@@ -318,6 +318,8 @@ https://retracker.x2k.ru/announce
 
 https://retracker2.x2k.ru/announce
 
+https://retracker2.x2k.ru:443/announce
+
 https://secure.pow7.com/announce
 
 https://seeders-paradise.org/announce

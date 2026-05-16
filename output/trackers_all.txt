@@ -3688,6 +3688,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -3743,6 +3745,8 @@ http://110.187.215.166:6969/announce
 http://113.13.6.40:6969/announce
 
 http://113.13.7.124:6969/announce
+
+http://113.13.7.90:6969/announce
 
 http://113.16.153.249:6969/announce
 
@@ -4621,6 +4625,8 @@ http://211.23.142.127:6969/announce
 http://211.75.205.187/announce
 
 http://211.75.205.187:6969/announce
+
+http://211.75.205.187:80/announce
 
 http://211.75.205.188/announce
 
@@ -5918,6 +5924,8 @@ http://jsb.by:8000/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://katushek.net:2710/announce
@@ -6229,6 +6237,8 @@ http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.spb.ru/announce.php
 
@@ -6767,6 +6777,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -7755,6 +7767,8 @@ https://retracker.krs-ix.ru:80/announce
 https://retracker.x2k.ru/announce
 
 https://retracker2.x2k.ru/announce
+
+https://retracker2.x2k.ru:443/announce
 
 https://secure.pow7.com/announce
 
