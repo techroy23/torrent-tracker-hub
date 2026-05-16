@@ -25,7 +25,14 @@ URLS = [
     "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_ws.txt",
     "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_wss.txt",
     "https://newtrackon.com/api/all",
-    "https://trackers.run/s/wp_ws_up_hp_hs_v4_v6.txt"
+    "https://trackers.run/s/wp_ws_up_hp_hs_v4_v6.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_all.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best_http.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best_https.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best_udp.txt",
+    "https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best_wss.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_tracker.txt"
 ]
 OUTPUT_DIR = "output"
 
