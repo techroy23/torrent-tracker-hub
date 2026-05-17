@@ -3690,8 +3690,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -5978,8 +5976,6 @@ http://jsb.by:8000/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://katushek.net:2710/announce
@@ -8185,8 +8181,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
