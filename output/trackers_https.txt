@@ -10,8 +10,6 @@ https://004430.xyz:443/announce
 
 https://0d.kebhana.mx/announce
 
-https://0d.kebhana.mx:443/announce
-
 https://1.tracker.eu.org/announce
 
 https://104.244.79.229/announce
@@ -504,8 +502,6 @@ https://tr.burnabyhighstar.com/announce
 
 https://tr.doogh.club/announce
 
-https://tr.doogh.club:443/announce
-
 https://tr.fuckbitcoin.xyz/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
@@ -605,6 +601,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt-hash.com/announce
+
+https://tracker.bt-hash.com:443/announce
 
 https://tracker.bt4g.com/announce
 
@@ -797,8 +795,6 @@ https://tracker.lenition.de/announce
 https://tracker.lenition.de:443/announce
 
 https://tracker.lilithraws.cf/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org/announce
 

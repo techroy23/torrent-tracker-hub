@@ -3690,6 +3690,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -5694,8 +5696,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://bz.tracker.bz/announce
 
-http://bz.tracker.bz:80/announce
-
 http://canardscitrons.nohost.me:6969/announce
 
 http://carapax.net:443/announce
@@ -6296,6 +6296,8 @@ http://retracker.hq.ertelecom.ru/announce
 
 http://retracker.joxnet.ru/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://retracker.kld.ru/announce
 
 http://retracker.kld.ru:2710/announce
@@ -6309,6 +6311,8 @@ http://retracker.mgts.by/announce
 http://retracker.nn.ertelecom.ru/announce
 
 http://retracker.ohys.net/announce
+
+http://retracker.ohys.net:80/announce
 
 http://retracker.omsk.ru:2710/announce
 
@@ -6397,8 +6401,6 @@ http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
 
 http://share.hkg-fansub.info/announce.php
-
-http://share.hkg-fansub.info:80/announce
 
 http://shogiroom.com:6969/announce
 
@@ -6553,8 +6555,6 @@ http://torrent.jiwang.cc/announce
 http://torrent.mp3quran.net/announce
 
 http://torrent.mp3quran.net/announce.php
-
-http://torrent.mp3quran.net:80/announce
 
 http://torrent.nwps.ws/announce
 
@@ -6820,6 +6820,8 @@ http://tracker.dutchtracking.com/announce
 
 http://tracker.dutchtracking.nl/announce
 
+http://tracker.dutchtracking.nl:80/announce
+
 http://tracker.edgebooster.com:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -7082,6 +7084,8 @@ http://tracker.openbittorrent.kg:2710/announce
 
 http://tracker.openbittorrrent.com/announce
 
+http://tracker.openbittorrrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openzim.org/announce
@@ -7149,8 +7153,6 @@ http://tracker.sharereactor.ru:2710/announce
 http://tracker.sheesh.rip:6969/announce
 
 http://tracker.shittyurl.org/announce
-
-http://tracker.shittyurl.org:80/announce
 
 http://tracker.shuntv.net/announce
 
@@ -7698,8 +7700,6 @@ https://004430.xyz:443/announce
 
 https://0d.kebhana.mx/announce
 
-https://0d.kebhana.mx:443/announce
-
 https://1.tracker.eu.org/announce
 
 https://104.244.79.229/announce
@@ -8192,8 +8192,6 @@ https://tr.burnabyhighstar.com/announce
 
 https://tr.doogh.club/announce
 
-https://tr.doogh.club:443/announce
-
 https://tr.fuckbitcoin.xyz/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
@@ -8293,6 +8291,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt-hash.com/announce
+
+https://tracker.bt-hash.com:443/announce
 
 https://tracker.bt4g.com/announce
 
@@ -8485,8 +8485,6 @@ https://tracker.lenition.de/announce
 https://tracker.lenition.de:443/announce
 
 https://tracker.lilithraws.cf/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org/announce
 
