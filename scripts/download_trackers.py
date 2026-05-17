@@ -95,6 +95,24 @@ def write_whitelist(whitelist, filename):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(header + "\n".join(whitelist))
 
+def normalize_default_ports(trackers):
+    cleaned = []
+    seen = set()
+    for tracker in trackers:
+        lower = tracker.lower()
+        if lower.startswith("http://"):
+            cleaned_tracker = tracker.replace(":80", "", 1)
+        elif lower.startswith("https://"):
+            cleaned_tracker = tracker.replace(":443", "", 1)
+            cleaned_tracker = cleaned_tracker.replace(":80", "", 1)
+        else:
+            cleaned_tracker = tracker
+        
+        if cleaned_tracker not in seen:
+            seen.add(cleaned_tracker)
+            cleaned.append(cleaned_tracker)
+    return cleaned
+
 def create_whitelist(trackers):
     whitelist = []
     seen = set()
@@ -127,6 +145,7 @@ def main():
 
     unique_trackers = list(OrderedDict.fromkeys(trackers))
     unique_trackers.sort()
+    unique_trackers = normalize_default_ports(unique_trackers)
 
     categorized = categorize_trackers(unique_trackers)
     all_trackers = (
