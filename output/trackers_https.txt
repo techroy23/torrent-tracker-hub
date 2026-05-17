@@ -12,7 +12,7 @@ https://1.tracker.eu.org/announce
 
 https://104.244.79.229/announce
 
-https://104.28.1.3080/announce
+https://104.28.1.30:8080/announce
 
 https://104.28.16.69/announce
 
@@ -30,7 +30,7 @@ https://128.199.70.66:5944/announce
 
 https://1337.abcvg.info/announce
 
-https://157.7.202.6480/announce
+https://157.7.202.64:8080/announce
 
 https://158.69.146.212:7777/announce
 
@@ -42,7 +42,7 @@ https://178.33.73.26:2710/announce
 
 https://182.176.139.129:6969/announce
 
-https://185.5.97.13989/announce
+https://185.5.97.139:8089/announce
 
 https://188.165.253.109:1337/announce
 
@@ -90,7 +90,7 @@ https://81.200.2.231/announce
 
 https://85.17.19.180/announce
 
-https://87.248.186.25280/announce
+https://87.248.186.252:8080/announce
 
 https://87.253.152.137/announce
 
@@ -148,7 +148,7 @@ https://bt.nfshost.com/announce
 
 https://bt.ptlsp.com/announce
 
-https://bt.pusacg.org80/announce
+https://bt.pusacg.org:8080/announce
 
 https://bt2.080609.xyz/announce
 
@@ -358,11 +358,11 @@ https://torrents.linuxmint.com/announce.php
 
 https://torrents.tmtime.dev/announce
 
-https://torrentsmd.com80/announce
+https://torrentsmd.com:8080/announce
 
-https://torrentsmd.eu80/announce
+https://torrentsmd.eu:8080/announce
 
-https://torrentsmd.me80/announce
+https://torrentsmd.me:8080/announce
 
 https://torrust.canofsocks.com/announce
 
@@ -512,7 +512,7 @@ https://tracker.feb217.tk/announce
 
 https://tracker.feb217.tk:8443/announce
 
-https://tracker.filetracker.pl89/announce
+https://tracker.filetracker.pl:8089/announce
 
 https://tracker.flashtorrents.org:6969/announce
 
@@ -692,7 +692,7 @@ https://tracker.rainbowisland.co/announce
 
 https://tracker.renfei.net/announce
 
-https://tracker.renfei.net80/announce
+https://tracker.renfei.net:8080/announce
 
 https://tracker.sakurato.art:23334/announce
 

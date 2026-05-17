@@ -33,7 +33,6 @@
 @@||announce.mybits.ws^$important
 @@||announce.opensharing.org^$important
 @@||announce.partis.si^$important
-@@||announce.torrentsmd.com80^$important
 @@||announce.torrentsmd.com^$important
 @@||announce.xxxtor.com^$important
 @@||anzix.net^$important
@@ -106,6 +105,7 @@
 @@||bt.3kb.xyz^$important
 @@||bt.ali213.net00^$important
 @@||bt.ali213.net80^$important
+@@||bt.ali213.net^$important
 @@||bt.aoeex.com^$important
 @@||bt.artvid.ru^$important
 @@||bt.beatrice-raws.org^$important
@@ -126,7 +126,7 @@
 @@||bt.home-ix.ru^$important
 @@||bt.ipfs.ga^$important
 @@||bt.kinoserver.org^$important
-@@||bt.ktkj.com80^$important
+@@||bt.ktkj.com^$important
 @@||bt.ktrackers.com^$important
 @@||bt.letpo.com^$important
 @@||bt.nfshost.com^$important
@@ -142,8 +142,8 @@
 @@||bt.plc.mx^$important
 @@||bt.poletracker.org^$important
 @@||bt.ptlsp.com^$important
-@@||bt.publicvm.com80^$important
-@@||bt.pusacg.org80^$important
+@@||bt.publicvm.com^$important
+@@||bt.pusacg.org^$important
 @@||bt.rer.lol^$important
 @@||bt.rghost.net^$important
 @@||bt.rutor.org^$important
@@ -209,11 +209,10 @@
 @@||chihaya-heroku.120181311.xyz^$important
 @@||chihaya.de^$important
 @@||chihaya.toss.li^$important
-@@||chouchou.top80^$important
 @@||chouchou.top^$important
 @@||city21.pk^$important
 @@||cloud.arzanmodern.ir^$important
-@@||cloud.nyap2p.com80^$important
+@@||cloud.nyap2p.com^$important
 @@||cloud.samtechnic.ir^$important
 @@||cn.pcfreetime.com^$important
 @@||cny.fan^$important
@@ -267,7 +266,7 @@
 @@||dyndns.xionxiii.ovh^$important
 @@||ec2-18-191-163-220.us-east-2.compute.amazonaws.com^$important
 @@||eccologic.net^$important
-@@||echostar.ddnsfree.com80^$important
+@@||echostar.ddnsfree.com^$important
 @@||ed2k.vip^$important
 @@||eddie4.nl^$important
 @@||edge-team.cc^$important
@@ -313,6 +312,7 @@
 @@||freetorrent.ru^$important
 @@||freetorrents.org.ua^$important
 @@||frp.v2fy.com00^$important
+@@||frp.v2fy.com^$important
 @@||ftp.pet^$important
 @@||fxtt.ru^$important
 @@||gdbt.3322.org^$important
@@ -378,6 +378,7 @@
 @@||josueunhuit.com^$important
 @@||jp.moeweb.pw^$important
 @@||jsb.by00^$important
+@@||jsb.by^$important
 @@||jutone.com^$important
 @@||jvavav.com^$important
 @@||k.avc.cx^$important
@@ -398,6 +399,7 @@
 @@||laestrygonian.ooguy.com^$important
 @@||laszlo130.go.ro^$important
 @@||laxclax.ddns.net00^$important
+@@||laxclax.ddns.net^$important
 @@||laze.cc^$important
 @@||leecherhaven.zapto.org^$important
 @@||leefafa.tk^$important
@@ -452,7 +454,7 @@
 @@||mpggalaxy.mine.nu^$important
 @@||mserver.link^$important
 @@||mts.tvbit.co^$important
-@@||multi.open-tracker.cf00^$important
+@@||multi.open-tracker.cf^$important
 @@||music-torrent.net^$important
 @@||mvgforumtracker.mvgroup.org^$important
 @@||mvgroup.org^$important
@@ -510,7 +512,6 @@
 @@||open.lolicon.eu^$important
 @@||open.miotracker.com^$important
 @@||open.nyaatorrents.info^$important
-@@||open.nyap2p.com80^$important
 @@||open.nyap2p.com^$important
 @@||open.publictracker.xyz^$important
 @@||open.stealth.si^$important
@@ -553,7 +554,6 @@
 @@||packages.crunchbangplusplus.org^$important
 @@||papaja.v2v.cc^$important
 @@||parag.rs^$important
-@@||passpulse.net00^$important
 @@||passpulse.net^$important
 @@||peerfect.org^$important
 @@||peersteers.org^$important
@@ -666,6 +666,7 @@
 @@||shadowshq.yi.org^$important
 @@||shahidrazi.online^$important
 @@||share.camoe.cn80^$important
+@@||share.camoe.cn^$important
 @@||share.hkg-fansub.info^$important
 @@||shizzle.hammetjus.nl^$important
 @@||shogiroom.com^$important
@@ -753,14 +754,10 @@
 @@||tk.mabo.ltd^$important
 @@||tk.nvacg.org^$important
 @@||tk.trojangogogo.site^$important
-@@||tk1.trackerservers.com80^$important
 @@||tk1.trackerservers.com^$important
-@@||tk1v6.trackerservers.com80^$important
 @@||tk1v6.trackerservers.com^$important
 @@||tk2.greedland.net^$important
-@@||tk2.trackerservers.com80^$important
 @@||tk2.trackerservers.com^$important
-@@||tk2v6.trackerservers.com80^$important
 @@||tk2v6.trackerservers.com^$important
 @@||tk4.leechshield.link^$important
 @@||tlm-project.org^$important
@@ -799,8 +796,8 @@
 @@||torrents.tmtime.dev^$important
 @@||torrentsmd.com80^$important
 @@||torrentsmd.com^$important
-@@||torrentsmd.eu80^$important
-@@||torrentsmd.me80^$important
+@@||torrentsmd.eu^$important
+@@||torrentsmd.me^$important
 @@||torrenttracker.nwc.acsalaska.net^$important
 @@||torrentvpn.club^$important
 @@||torrentzilla.org^$important
@@ -878,12 +875,13 @@
 @@||tracker.aletorrenty.pl^$important
 @@||tracker.ali213.net00^$important
 @@||tracker.ali213.net80^$important
+@@||tracker.ali213.net^$important
 @@||tracker.altrosky.nl^$important
 @@||tracker.amelia.fun^$important
 @@||tracker.anima.nz^$important
 @@||tracker.anime-miako.to^$important
 @@||tracker.anirena.com^$important
-@@||tracker.anonwebz.xyz80^$important
+@@||tracker.anonwebz.xyz^$important
 @@||tracker.arcbox.cc^$important
 @@||tracker.army^$important
 @@||tracker.artixlinux.org^$important
@@ -920,7 +918,7 @@
 @@||tracker.btcake.com^$important
 @@||tracker.btorrent.xyz^$important
 @@||tracker.btsync.gq^$important
-@@||tracker.btzero.net80^$important
+@@||tracker.btzero.net^$important
 @@||tracker.btzoo.eu^$important
 @@||tracker.bug38.com^$important
 @@||tracker.bulao.ren^$important
@@ -945,7 +943,6 @@
 @@||tracker.corpscorp.online^$important
 @@||tracker.cpleft.com^$important
 @@||tracker.crawfish.cf^$important
-@@||tracker.csze.com80^$important
 @@||tracker.csze.com^$important
 @@||tracker.cubicview.site^$important
 @@||tracker.cubonegro.lol^$important
@@ -1007,7 +1004,6 @@
 @@||tracker.filemail.com^$important
 @@||tracker.filepit.to^$important
 @@||tracker.files.fm^$important
-@@||tracker.filetracker.pl89^$important
 @@||tracker.filetracker.pl^$important
 @@||tracker.flashtorrents.org^$important
 @@||tracker.flatuslifir.is^$important
@@ -1053,7 +1049,6 @@
 @@||tracker.hiyj.cn^$important
 @@||tracker.hkreporter.com^$important
 @@||tracker.home.kmzs123.cn^$important
-@@||tracker.huadongblower.xyz80^$important
 @@||tracker.huadongblower.xyz^$important
 @@||tracker.iamhansen.xyz^$important
 @@||tracker.ilibr.org^$important
@@ -1167,7 +1162,7 @@
 @@||tracker.nyaa.vc^$important
 @@||tracker.nyaa2p.i2p^$important
 @@||tracker.nyacat.pw^$important
-@@||tracker.nyap2p.com80^$important
+@@||tracker.nyap2p.com^$important
 @@||tracker.ocnix.net^$important
 @@||tracker.ohys.net^$important
 @@||tracker.ololosh.space^$important
@@ -1302,9 +1297,7 @@
 @@||tracker.trafficmgr.net^$important
 @@||tracker.trancetraffic.com^$important
 @@||tracker.tricitytorrents.com^$important
-@@||tracker.tritan.gg80^$important
 @@||tracker.tritan.gg^$important
-@@||tracker.trojangogogo.site80^$important
 @@||tracker.trojangogogo.site^$important
 @@||tracker.tryhackx.org^$important
 @@||tracker.tvgc.win^$important
@@ -1399,7 +1392,6 @@
 @@||tracker3.ctix.cn^$important
 @@||tracker3.dler.org^$important
 @@||tracker3.infohash.org^$important
-@@||tracker3.itzmx.com80^$important
 @@||tracker3.itzmx.com^$important
 @@||tracker3.leaves.red^$important
 @@||tracker3.t-1.org^$important
@@ -1504,6 +1496,7 @@
 @@||www.biztorrents.com^$important
 @@||www.blackcats-games.net^$important
 @@||www.chouchou.club80^$important
+@@||www.chouchou.club^$important
 @@||www.darkgamex.ch^$important
 @@||www.eddie4.nl^$important
 @@||www.elitezones.ro^$important
@@ -1571,8 +1564,8 @@
 @@||z.crazyhd.com^$important
 @@||z.mercax.com^$important
 @@||z.paranoid.agency^$important
-@@||z6gw6skubmo2pj43.onion80^$important
-@@||z6gw6skubmo2pj43.tor2web.com80^$important
+@@||z6gw6skubmo2pj43.onion^$important
+@@||z6gw6skubmo2pj43.tor2web.com^$important
 @@||zecircle.xyz^$important
 @@||zephir.monocul.us^$important
 @@||zer0day.000webhostapp.com^$important
