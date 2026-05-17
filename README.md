@@ -21,6 +21,8 @@ Aggregated torrent tracker lists from multiple sources. Updated automatically vi
 - [lighting9999/tracker-project](https://github.com/lighting9999/tracker-project)
 - [NewTrackon](https://newtrackon.com/)
 - [Trackers.run](https://trackers.run/)
+- [adysec/tracker](https://github.com/adysec/tracker)
+- [hezhijie0327/Trackerslist](https://github.com/hezhijie0327/Trackerslist)
 
 ## Whitelist
 
