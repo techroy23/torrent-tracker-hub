@@ -96,15 +96,16 @@ def write_whitelist(whitelist, filename):
         f.write(header + "\n".join(whitelist))
 
 def normalize_default_ports(trackers):
+    import re
     cleaned = []
     seen = set()
     for tracker in trackers:
         lower = tracker.lower()
         if lower.startswith("http://"):
-            cleaned_tracker = tracker.replace(":80", "", 1)
+            cleaned_tracker = re.sub(r':80(/|$)', r'\1', tracker)
         elif lower.startswith("https://"):
-            cleaned_tracker = tracker.replace(":443", "", 1)
-            cleaned_tracker = cleaned_tracker.replace(":80", "", 1)
+            cleaned_tracker = re.sub(r':443(/|$)', r'\1', tracker)
+            cleaned_tracker = re.sub(r':80(/|$)', r'\1', cleaned_tracker)
         else:
             cleaned_tracker = tracker
         
