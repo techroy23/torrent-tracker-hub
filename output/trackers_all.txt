@@ -1856,6 +1856,8 @@ udp://amigacity.xyz:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://anime-tracker.aruku.kro.kr:8081/announce
+
 udp://anisaishuu.de:2710/announce
 
 udp://anna.bt.bontal.net:6969/announce
@@ -2848,6 +2850,8 @@ udp://tracker.army:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.aruku.ovh:8081/announce
+
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.babico.name.tr:8000/announce
@@ -3747,6 +3751,8 @@ http://113.13.7.124:6969/announce
 http://113.13.7.90:6969/announce
 
 http://113.16.152.94:6969/announce
+
+http://113.16.153.192:6969/announce
 
 http://113.16.153.249:6969/announce
 
