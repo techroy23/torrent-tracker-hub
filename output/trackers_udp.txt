@@ -1192,6 +1192,8 @@ udp://43.139.20.56:6969/announce
 
 udp://43.154.112.29:17272/announce
 
+udp://43.250.54.126:6969/announce
+
 udp://43.250.54.137:6969/announce
 
 udp://44.30.4.3:6969/announce
