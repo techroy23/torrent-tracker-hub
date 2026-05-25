@@ -224,6 +224,8 @@ udp://148.135.112.164:6969/announce
 
 udp://148.251.53.72:6969/announce
 
+udp://149.106.106.25:443/announce
+
 udp://149.202.88.193:80/announce
 
 udp://149.28.47.87:1738/announce
@@ -1767,6 +1769,8 @@ udp://92.223.105.178:6969/announce
 udp://93.104.214.40:6969/announce
 
 udp://93.158.213.92:1337/announce
+
+udp://93.158.213.92:6969/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
 

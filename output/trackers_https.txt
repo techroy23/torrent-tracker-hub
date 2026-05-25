@@ -440,6 +440,8 @@ https://tracker.aletorrenty.pl:2710/announce
 
 https://tracker.amelia.fun/announce
 
+https://tracker.anibt.net/announce
+
 https://tracker.babico.name.tr/announce
 
 https://tracker.baka.ink/announce
