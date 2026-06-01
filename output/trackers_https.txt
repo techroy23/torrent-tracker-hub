@@ -6,6 +6,8 @@ https://00.xxtor.com/announce
 
 https://004430.xyz/announce
 
+https://021912.xyz/announce
+
 https://0d.kebhana.mx/announce
 
 https://1.tracker.eu.org/announce
@@ -119,6 +121,8 @@ https://alpha.torrenttracker.nl/announce
 https://api.ipv4online.uk/announce
 
 https://atrack.pow7.com/announce
+
+https://banananetwork.qzz.io/announce
 
 https://bdremux.club/announce
 
@@ -257,6 +261,8 @@ https://opentracker.co/announce
 https://opentracker.i2p.rocks/announce
 
 https://opentracker.xyz/announce
+
+https://orgtgju.org/announce
 
 https://ourbits.club/announce
 
