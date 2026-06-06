@@ -112,6 +112,8 @@ http://113.17.153.227:6969/announce
 
 http://113.17.153.71:6969/announce
 
+http://113.17.66.235:6969/announce
+
 http://113.17.66.72:6969/announce
 
 http://113.17.67.93:6969/announce
@@ -1125,6 +1127,8 @@ http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
 
 http://34.66.57.33/announce
+
+http://34.66.57.33/announce.php
 
 http://34.66.57.33:11450/announce
 
