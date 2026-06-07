@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 06-06-2026
+! Updated: 06-07-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -245,6 +245,7 @@
 @@||datascene.net^$important
 @@||daveking.com^$important
 @@||db.koikia.eu^$important
+@@||de7c0e7a567e.sn.mynetname.net^$important
 @@||debuz.com^$important
 @@||dendox.org^$important
 @@||denis.stalker.h3q.com^$important
@@ -901,6 +902,7 @@
 @@||tracker.beeimg.com^$important
 @@||tracker.belmult.online^$important
 @@||tracker.best-torrents.net^$important
+@@||tracker.bigbewbs.online^$important
 @@||tracker.birkenwald.de^$important
 @@||tracker.bitcoinindia.space^$important
 @@||tracker.bitreactor.to^$important

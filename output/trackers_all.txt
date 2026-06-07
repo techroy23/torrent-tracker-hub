@@ -3808,6 +3808,8 @@ http://113.17.153.227:6969/announce
 
 http://113.17.153.71:6969/announce
 
+http://113.17.66.164:6969/announce
+
 http://113.17.66.235:6969/announce
 
 http://113.17.66.72:6969/announce
@@ -5731,6 +5733,8 @@ http://data-bg.net/announce.php
 http://datascene.net/announce
 
 http://datascene.net/announce.php
+
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
 
 http://debuz.com:6969/announce
 
@@ -7887,6 +7891,8 @@ https://tracker.bangumi.zip/announce
 https://tracker.baravik.org:6970/announce
 
 https://tracker.belmult.online/announce
+
+https://tracker.bigbewbs.online/announce
 
 https://tracker.bittor.pw:1337/announce
 
