@@ -406,6 +406,8 @@ udp://177.172.66.120:6969/announce
 
 udp://177.172.66.210:6969/announce
 
+udp://177.172.66.223:6969/announce
+
 udp://177.172.66.2:6969/announce
 
 udp://177.172.67.13:6969/announce
@@ -3184,6 +3186,8 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
+udp://tracker.opentrackr.com:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.orsvarn.com:6969/announce
@@ -3237,6 +3241,8 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.seedceo.com:2710/announce
 
 udp://tracker.seedceo.vn:2710/announce
+
+udp://tracker.segso.net:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
 
@@ -3814,6 +3820,8 @@ http://113.17.66.235:6969/announce
 
 http://113.17.66.72:6969/announce
 
+http://113.17.67.141:6969/announce
+
 http://113.17.67.93:6969/announce
 
 http://114.55.113.60:6969/announce
@@ -4207,6 +4215,8 @@ http://177.172.65.168:6969/announce
 http://177.172.66.120:6969/announce
 
 http://177.172.66.210:6969/announce
+
+http://177.172.66.223:6969/announce
 
 http://177.172.66.2:6969/announce
 
@@ -4825,8 +4835,6 @@ http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
 
 http://34.66.57.33/announce
-
-http://34.66.57.33/announce.php
 
 http://34.66.57.33:11450/announce
 

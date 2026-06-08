@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 06-07-2026
+! Updated: 06-08-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -1185,6 +1185,7 @@
 @@||tracker.opendev.cloud^$important
 @@||tracker.opentorrent.top^$important
 @@||tracker.opentracker.se^$important
+@@||tracker.opentrackr.com^$important
 @@||tracker.opentrackr.org^$important
 @@||tracker.openwebtorrent.com^$important
 @@||tracker.openzim.org^$important
@@ -1238,6 +1239,7 @@
 @@||tracker.sbsub.com^$important
 @@||tracker.seedceo.com^$important
 @@||tracker.seedceo.vn^$important
+@@||tracker.segso.net^$important
 @@||tracker.servequake.com^$important
 @@||tracker.sharebro.in^$important
 @@||tracker.sharereactor.ru^$important
