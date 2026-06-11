@@ -66,6 +66,8 @@ http://113.13.6.40:6969/announce
 
 http://113.13.7.124:6969/announce
 
+http://113.13.7.139:6969/announce
+
 http://113.13.7.149:6969/announce
 
 http://113.13.7.186:6969/announce
