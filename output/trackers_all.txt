@@ -4848,6 +4848,8 @@ http://222.84.23.109:6969/announce
 
 http://222.84.23.141:6969/announce
 
+http://222.84.23.36:6969/announce
+
 http://222.84.23.3:6969/announce
 
 http://24.195.241.41:6969/announce
@@ -4875,6 +4877,8 @@ http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
 
 http://34.66.57.33/announce
+
+http://34.66.57.33/announce.php
 
 http://34.66.57.33:11450/announce
 
