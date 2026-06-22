@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 06-21-2026
+! Updated: 06-22-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -342,6 +342,7 @@
 @@||home.yxgz.club^$important
 @@||home.yxgz.vip^$important
 @@||houniao.ddns.net^$important
+@@||ht.therarbg.to^$important
 @@||http1.torrust-tracker-demo.com^$important
 @@||htz3.noho.st^$important
 @@||hub.bugout.link^$important
