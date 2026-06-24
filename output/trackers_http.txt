@@ -820,6 +820,8 @@ http://189.79.13.107:6969/announce
 
 http://189.79.13.111:6969/announce
 
+http://189.79.13.198:6969/announce
+
 http://191.23.121.129:6969/announce
 
 http://191.23.62.111:6969/announce
