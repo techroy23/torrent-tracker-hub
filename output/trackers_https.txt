@@ -308,6 +308,8 @@ https://sparkle.ghostchu-services.top/announce
 
 https://sparkle.ghostchu-services.top/tracker/announce
 
+https://staticfile-bobcat.wasmer.app/announce
+
 https://t.213891.xyz/announce
 
 https://t.audiences.me/announce

@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 07-01-2026
+! Updated: 07-02-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -700,6 +700,7 @@
 @@||stargrave.org^$important
 @@||static.46.73.46.78.clients.your-server.de^$important
 @@||static.54.161.216.95.clients.your-server.de^$important
+@@||staticfile-bobcat.wasmer.app^$important
 @@||storage.groupees.com^$important
 @@||streamzone.org^$important
 @@||su-data.com^$important
