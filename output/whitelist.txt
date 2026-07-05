@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 07-04-2026
+! Updated: 07-05-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -567,6 +567,7 @@
 @@||peersteers.org^$important
 @@||peru.subventas.com^$important
 @@||photodiode.mine.nu^$important
+@@||php-bobcat.wasmer.app^$important
 @@||piratbit.net^$important
 @@||pirate.hz.is^$important
 @@||pirate.t-1.org^$important

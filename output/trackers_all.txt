@@ -7796,6 +7796,8 @@ https://p4p.arenabg.ch:1337/announce
 
 https://p4p.arenabg.com:1337/announce
 
+https://php-bobcat.wasmer.app/announce
+
 https://pow7.com/announce
 
 https://prestige.minimafia.nl/announce
