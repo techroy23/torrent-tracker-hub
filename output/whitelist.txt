@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 07-09-2026
+! Updated: 07-10-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -270,6 +270,7 @@
 @@||download.nerocloud.me^$important
 @@||dpiui.reedlan.com^$important
 @@||drumkitx.com^$important
+@@||ds32244.seedhost.eu^$important
 @@||dyndns.xionxiii.ovh^$important
 @@||ec2-18-191-163-220.us-east-2.compute.amazonaws.com^$important
 @@||eccologic.net^$important
