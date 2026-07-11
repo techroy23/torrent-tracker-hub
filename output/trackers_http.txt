@@ -1168,6 +1168,8 @@ http://34.52.190.155:6969/announce
 
 http://34.66.57.33/announce
 
+http://34.66.57.33/announce.php
+
 http://34.66.57.33:11450/announce
 
 http://34.66.57.33:1337/announce
@@ -2707,6 +2709,8 @@ http://streamzone.org:2720/announce
 http://sugoi.pomf.se/announce
 
 http://sukebei.tracker.wf:8888/announce
+
+http://supertracker.cc.cd/announce
 
 http://t-backup.213891.xyz/announce
 
