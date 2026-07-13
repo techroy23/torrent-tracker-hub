@@ -7994,6 +7994,8 @@ https://tracker.aburaya.live/announce
 
 https://tracker.acgnx.se/announce
 
+https://tracker.adgk.net/announce
+
 https://tracker.alaskantf.com/announce
 
 https://tracker.aletorrenty.pl:2710/announce
