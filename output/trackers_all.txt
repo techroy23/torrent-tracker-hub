@@ -240,6 +240,8 @@ udp://15.204.56.171:6969/announce
 
 udp://15.204.57.168:6969/announce
 
+udp://15.235.207.99:8081/announce
+
 udp://151.236.218.182:6969/announce
 
 udp://151.242.104.187:80/announce
@@ -280,6 +282,8 @@ udp://152.53.152.105:1984/announce
 
 udp://152.53.152.105:54123/announce
 
+udp://152.53.194.103:1984/announce
+
 udp://152.53.194.103:54123/announce
 
 udp://152.89.29.128:6969/announce
@@ -295,6 +299,8 @@ udp://157.90.161.74:6969/announce
 udp://157.90.169.123:80/announce
 
 udp://158.101.161.60:3131/announce
+
+udp://159.146.99.45:6969/announce
 
 udp://159.195.43.181:6969/announce
 
@@ -1070,6 +1076,8 @@ udp://220.200.35.97:6969/announce
 
 udp://220.250.51.200:6969/announce
 
+udp://221.153.216.56:8081/announce
+
 udp://222.216.138.237:6969/announce
 
 udp://222.216.139.217:6969/announce
@@ -1211,6 +1219,8 @@ udp://37.235.176.37:2710/announce
 udp://37.27.4.53:6969/announce
 
 udp://37.59.48.81:6969/announce
+
+udp://37.60.249.217:6969/announce
 
 udp://38.175.99.50:6969/announce
 
@@ -1389,6 +1399,10 @@ udp://54.37.235.149:6969/announce
 udp://54.39.48.3:6969/announce
 
 udp://57.128.230.226:80/announce
+
+udp://57.129.129.129:6969/announce
+
+udp://57.129.129.187:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -1690,6 +1704,8 @@ udp://88.216.2.71:6969/announce
 
 udp://88.80.22.67:2710/announce
 
+udp://88.80.22.75:2710/announce
+
 udp://88.80.28.7:6969/announce
 
 udp://88.99.142.4:8000/announce
@@ -1781,6 +1797,8 @@ udp://91.121.54.8:6969/announce
 udp://91.121.54.8:80/announce
 
 udp://91.149.192.31:6969/announce
+
+udp://91.177.126.188:6969/announce
 
 udp://91.186.213.204:6969/announce
 
@@ -2167,6 +2185,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 
 udp://eddie4.nl:6969/announce
+
+udp://edgev.duckdns.org:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
@@ -4266,6 +4286,8 @@ http://177.172.61.236:6969/announce
 
 http://177.172.61.249:6969/announce
 
+http://177.172.61.26:6969/announce
+
 http://177.172.61.33:6969/announce
 
 http://177.172.62.154:6969/announce
@@ -5016,6 +5038,8 @@ http://37.235.174.46:2710/announce
 
 http://37.27.188.67:6969/announce
 
+http://37.60.249.217:6969/announce
+
 http://38.145.197.79:6961/announce
 
 http://3dfreedom.ru:6969/announce
@@ -5471,6 +5495,8 @@ http://93.92.64.5/announce
 http://94.228.192.98/announce
 
 http://94.228.192.98:6969/announce
+
+http://94.23.207.177:6969/announce
 
 http://94.72.140.51:6969/announce
 
@@ -6988,6 +7014,8 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.nexusstream.eu:6969/announce
+
 http://tracker.nighthawk.pw:2052/announce
 
 http://tracker.noobsubs.net/announce
@@ -7538,6 +7566,8 @@ http://xtremewrestlingtorrents.net/announce
 
 http://xtremewrestlingtorrents.net/announce.php
 
+http://ydlkccp.dscloud.me:6969/announce
+
 http://yggtracker.i2p.rocks/announce
 
 http://yolo.liberbear.com/announce
@@ -7737,6 +7767,8 @@ https://docker-tracker-production.up.railway.app/announce
 https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).udp:/open.stealth.si/announce
 
 https://edge-team.cc/announce
+
+https://edgev.duckdns.org/announce
 
 https://evening-badlands-6215.herokuapp.com/announce
 

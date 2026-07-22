@@ -510,6 +510,8 @@ http://177.172.61.236:6969/announce
 
 http://177.172.61.249:6969/announce
 
+http://177.172.61.26:6969/announce
+
 http://177.172.61.33:6969/announce
 
 http://177.172.62.154:6969/announce
@@ -1260,6 +1262,8 @@ http://37.235.174.46:2710/announce
 
 http://37.27.188.67:6969/announce
 
+http://37.60.249.217:6969/announce
+
 http://38.145.197.79:6961/announce
 
 http://3dfreedom.ru:6969/announce
@@ -1715,6 +1719,8 @@ http://93.92.64.5/announce
 http://94.228.192.98/announce
 
 http://94.228.192.98:6969/announce
+
+http://94.23.207.177:6969/announce
 
 http://94.72.140.51:6969/announce
 
@@ -3232,6 +3238,8 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.nexusstream.eu:6969/announce
+
 http://tracker.nighthawk.pw:2052/announce
 
 http://tracker.noobsubs.net/announce
@@ -3781,6 +3789,8 @@ http://xbtrutor.com:2710/announce
 http://xtremewrestlingtorrents.net/announce
 
 http://xtremewrestlingtorrents.net/announce.php
+
+http://ydlkccp.dscloud.me:6969/announce
 
 http://yggtracker.i2p.rocks/announce
 

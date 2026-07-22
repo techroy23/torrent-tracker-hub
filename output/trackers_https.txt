@@ -190,6 +190,8 @@ https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).udp
 
 https://edge-team.cc/announce
 
+https://edgev.duckdns.org/announce
+
 https://evening-badlands-6215.herokuapp.com/announce
 
 https://explodie.org:6969/announce
