@@ -646,6 +646,8 @@ http://184.61.17.58:9000/announce
 
 http://185.121.24.141:6969/announce
 
+http://185.126.65.92:6969/announce
+
 http://185.130.47.2:6969/announce
 
 http://185.148.3.231/announce
@@ -1173,6 +1175,8 @@ http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
 
 http://34.66.57.33/announce
+
+http://34.66.57.33/announce.php
 
 http://34.66.57.33:11450/announce
 
