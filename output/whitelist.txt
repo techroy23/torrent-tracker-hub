@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 08-06-2026
+! Updated: 08-07-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -104,7 +104,6 @@
 @@||bt-tracker.wasmer.app^$important
 @@||bt.080609.xyz^$important
 @@||bt.100.pet^$important
-@@||bt.10000.pet^$important
 @@||bt.3dmgame.com^$important
 @@||bt.3kb.xyz^$important
 @@||bt.ali213.net00^$important
@@ -303,7 +302,6 @@
 @@||fh2.cmp-gaming.com^$important
 @@||files.project-cataclysm.ru^$important
 @@||files.samtechnic.ir^$important
-@@||filetracker.xyz^$important
 @@||finbytes.org^$important
 @@||fleira.no^$important
 @@||fly.torrentmove.com^$important
@@ -475,7 +473,6 @@
 @@||netmap.top^$important
 @@||netwarer.xyz^$important
 @@||new-line.net^$important
-@@||newtoncity.org^$important
 @@||nnbt.org^$important
 @@||nnm-club.ru^$important
 @@||node01.edge-team.cc^$important
@@ -559,7 +556,6 @@
 @@||p2p.0g.cx^$important
 @@||p2p.azu.red^$important
 @@||p2p.publictracker.xyz^$important
-@@||p2pdl.com^$important
 @@||p4p.arenabg.ch^$important
 @@||p4p.arenabg.com^$important
 @@||p5796a22a.dip0.t-ipconnect.de^$important
@@ -1172,14 +1168,12 @@
 @@||tracker.netmap.top^$important
 @@||tracker.nextrp.ru^$important
 @@||tracker.nexusstream.eu^$important
-@@||tracker.nighthawk.pw^$important
 @@||tracker.nitrix.me^$important
 @@||tracker.noobsubs.net^$important
 @@||tracker.novage.com.ua^$important
 @@||tracker.novalayer.org^$important
 @@||tracker.novaopcj.eu.org^$important
 @@||tracker.novy.vip^$important
-@@||tracker.nrx.me^$important
 @@||tracker.nucozer-tracker.ml^$important
 @@||tracker.nwps.ws^$important
 @@||tracker.nyaa.net^$important

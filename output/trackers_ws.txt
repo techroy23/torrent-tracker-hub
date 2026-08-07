@@ -4,10 +4,6 @@ ws://tracker.files.fm:7072/announce
 
 ws://tracker.ghostchu-services.top:80/announce
 
-ws://tracker.nighthawk.pw:4201/announce
-
-ws://tracker.sloppyta.co:80/announce
-
 wss://qot.abiir.top/announce
 
 wss://qot.abiir.top:443/announce
