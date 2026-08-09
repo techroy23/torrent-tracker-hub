@@ -648,6 +648,8 @@ udp://189.18.127.21:6969/announce
 
 udp://189.18.127.57:6969/announce
 
+udp://189.18.162.102:6969/announce
+
 udp://189.18.162.106:6969/announce
 
 udp://189.18.162.12:6969/announce
@@ -2975,6 +2977,8 @@ udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cutie.dating:80/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.cynma.tv:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
