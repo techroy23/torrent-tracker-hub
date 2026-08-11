@@ -572,6 +572,8 @@ http://177.215.67.165:6969/announce
 
 http://177.215.67.185:6969/announce
 
+http://177.215.67.242:6969/announce
+
 http://177.27.223.184:6969/announce
 
 http://177.27.223.186:6969/announce
