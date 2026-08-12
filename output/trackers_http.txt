@@ -544,6 +544,8 @@ http://177.172.66.2:6969/announce
 
 http://177.172.67.13:6969/announce
 
+http://177.172.67.233:6969/announce
+
 http://177.172.67.247:6969/announce
 
 http://177.172.67.94:6969/announce
