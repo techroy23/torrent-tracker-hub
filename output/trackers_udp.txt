@@ -3550,6 +3550,8 @@ udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://udp.trackarr.org:6969/announce
 
+udp://udp.tracker.linvk.com:6969/announce
+
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp.yarr.pt:1337/announce
