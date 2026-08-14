@@ -568,6 +568,8 @@ http://177.215.65.176:6969/announce
 
 http://177.215.65.40:6969/announce
 
+http://177.215.66.183:6969/announce
+
 http://177.215.67.115:6969/announce
 
 http://177.215.67.165:6969/announce
