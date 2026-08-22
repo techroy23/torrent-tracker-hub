@@ -7346,6 +7346,8 @@ http://tracker3.torrentino.com/announce
 
 http://tracker3.torrentino.com/announce?passkey=00000000000000000000000000000000
 
+http://tracker4.finalgear.com/announce
+
 http://tracker4.infohash.org/announce
 
 http://tracker4.infohash.org:6969/announce
