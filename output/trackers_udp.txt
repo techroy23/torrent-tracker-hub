@@ -3092,6 +3092,8 @@ udp://tracker.glotorrents.pw:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.govt.hu:6969/announce
+
 udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
