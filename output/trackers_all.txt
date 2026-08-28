@@ -8282,6 +8282,8 @@ https://tracker.novy.vip/announce
 
 https://tracker.nyaa.tk/announce
 
+https://tracker.onetracker.net/announce
+
 https://tracker.opendev.cloud/announce
 
 https://tracker.opentracker.se/announce
