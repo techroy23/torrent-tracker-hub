@@ -7692,6 +7692,8 @@ https://5.79.249.77:6969/announce
 
 https://5.79.83.193:2710/announce
 
+https://5.tracker.eu.org/announce
+
 https://51.254.244.161:6969/announce
 
 https://54.37.157.173/announce
