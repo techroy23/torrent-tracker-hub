@@ -1182,6 +1182,8 @@ udp://31.38.161.123:6969/announce
 
 udp://31.56.179.159:6969/announce
 
+udp://31.59.141.120:6969/announce
+
 udp://34.66.57.33:1337/announce
 
 udp://34.66.57.33:80/announce
@@ -1234,6 +1236,8 @@ udp://37.60.249.217:6969/announce
 
 udp://38.175.99.50:6969/announce
 
+udp://38.180.157.12:2715/announce
+
 udp://3rt.tace.ru:60889/announce
 
 udp://4.tracker.devnak.win:6969/announce
@@ -1271,6 +1275,8 @@ udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
 
 udp://45.33.83.49:6969/announce
+
+udp://45.38.170.167:6969/announce
 
 udp://45.56.65.82:54123/announce
 
@@ -1313,6 +1319,8 @@ udp://46.4.109.148:6969/announce
 udp://46.59.69.118:6969/announce
 
 udp://47.243.23.189:6969/announce
+
+udp://47.76.201.250:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
@@ -1696,6 +1704,8 @@ udp://85.121.5.80:6969/announce
 
 udp://85.17.19.180:80/announce
 
+udp://85.17.55.112:6969/announce
+
 udp://85.219.133.18:6969/announce
 
 udp://85.239.33.28:6969/announce
@@ -1797,6 +1807,8 @@ udp://9.rarbg.to:2910/announce
 udp://9.rarbg.to:2920/announce
 
 udp://9.rarbg.to:2980/announce
+
+udp://90.226.147.124:6969/announce
 
 udp://91.121.145.207:6969/announce
 
@@ -2253,6 +2265,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 
 udp://freedomalternative.com:6969/announce
+
+udp://freetracker.i2p:1337/announce
 
 udp://ftp.pet:2710/announce
 
@@ -5992,6 +6006,8 @@ http://freetorrent.ru/announce.php
 
 http://freetorrents.org.ua:2710/announce
 
+http://freetracker.i2p:7331/announce
+
 http://frp.v2fy.com00/announce
 
 http://frp.v2fy.com:8000/announce
@@ -7609,6 +7625,8 @@ http://xtremewrestlingtorrents.net/announce
 http://xtremewrestlingtorrents.net/announce.php
 
 http://ydlkccp.dscloud.me:6969/announce
+
+http://yet-another-public-tracker.i2p/announce
 
 http://yggtracker.i2p.rocks/announce
 

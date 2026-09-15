@@ -2202,6 +2202,8 @@ http://freetorrent.ru/announce.php
 
 http://freetorrents.org.ua:2710/announce
 
+http://freetracker.i2p:7331/announce
+
 http://frp.v2fy.com00/announce
 
 http://frp.v2fy.com:8000/announce
@@ -3819,6 +3821,8 @@ http://xtremewrestlingtorrents.net/announce
 http://xtremewrestlingtorrents.net/announce.php
 
 http://ydlkccp.dscloud.me:6969/announce
+
+http://yet-another-public-tracker.i2p/announce
 
 http://yggtracker.i2p.rocks/announce
 
