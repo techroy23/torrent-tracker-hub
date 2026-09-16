@@ -472,6 +472,8 @@ udp://178.170.48.154:1337/announce
 
 udp://178.215.224.155:6969/announce
 
+udp://178.239.19.29:80/announce
+
 udp://178.33.73.26:2710/announce
 
 udp://179.118.129.138:6969/announce
@@ -853,6 +855,8 @@ udp://200.168.116.200:6969/announce
 udp://200.168.116.61:6969/announce
 
 udp://200.168.117.124:6969/announce
+
+udp://200.168.117.238:6969/announce
 
 udp://200.168.117.55:6969/announce
 
@@ -3409,6 +3413,8 @@ udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrentfrancais.com:80/announce
 
 udp://tracker.torrentparty.com:6969/announce
+
+udp://tracker.torrents.observer:80/announce
 
 udp://tracker.torrenty.org:6969/announce
 
