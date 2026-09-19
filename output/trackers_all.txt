@@ -3470,6 +3470,8 @@ udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
+udp://tracker.willy.pro:6969/announce
+
 udp://tracker.windsormetalbattery.com:80/announce
 
 udp://tracker.x4w.co:6969/announce
