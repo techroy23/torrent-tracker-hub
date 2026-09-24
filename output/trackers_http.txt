@@ -566,6 +566,8 @@ http://177.188.141.28:6969/announce
 
 http://177.188.141.32:6969/announce
 
+http://177.188.141.75:6969/announce
+
 http://177.198.120.248:6969/announce
 
 http://177.215.65.114:6969/announce
