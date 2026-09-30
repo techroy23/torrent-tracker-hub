@@ -314,6 +314,8 @@ http://135.181.203.12:6969/announce
 
 http://138.124.183.78:6969/announce
 
+http://138.186.10.167:1337/announce
+
 http://138.199.241.244/announce
 
 http://139.202.228.28:6969/announce
