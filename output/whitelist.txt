@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 10-06-2026
+! Updated: 10-07-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -99,6 +99,7 @@
 @@||bruisedfumblingmotion.sddsdsdsddsdss.repl.co^$important
 @@||bry-dell-htpc.freeddns.org^$important
 @@||bt-club.ws^$important
+@@||bt-tracker.de^$important
 @@||bt-tracker.devnak.win^$important
 @@||bt-tracker.gamexp.ru^$important
 @@||bt-tracker.wasmer.app^$important
