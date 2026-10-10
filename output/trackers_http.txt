@@ -954,6 +954,8 @@ http://200.161.254.194:6969/announce
 
 http://200.161.254.20:6969/announce
 
+http://200.161.254.249:6969/announce
+
 http://200.168.116.107:6969/announce
 
 http://200.168.116.191:6969/announce

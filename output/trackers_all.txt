@@ -856,6 +856,8 @@ udp://200.161.254.194:6969/announce
 
 udp://200.161.254.20:6969/announce
 
+udp://200.161.254.249:6969/announce
+
 udp://200.168.116.107:6969/announce
 
 udp://200.168.116.191:6969/announce
@@ -2007,6 +2009,8 @@ udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
 
 udp://bandito.org:80/announce
+
+udp://banzaitracker.com:2710/announce
 
 udp://bclearning.top:6969/announce
 
@@ -3289,6 +3293,8 @@ udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ocnix.net:6969/announce
 
 udp://tracker.ohys.net:80/announce
+
+udp://tracker.okade.pro:1337/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -4791,6 +4797,8 @@ http://200.161.254.131:6969/announce
 http://200.161.254.194:6969/announce
 
 http://200.161.254.20:6969/announce
+
+http://200.161.254.249:6969/announce
 
 http://200.168.116.107:6969/announce
 
