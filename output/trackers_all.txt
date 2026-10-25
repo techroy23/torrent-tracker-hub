@@ -168,6 +168,8 @@ udp://135.181.197.114:1337/announce
 
 udp://138.124.183.78:6969/announce
 
+udp://138.186.10.167:1337/announce
+
 udp://138.199.241.244:6969/announce
 
 udp://138.68.171.1:6969/announce
@@ -3377,6 +3379,8 @@ udp://tracker.seedceo.com:2710/announce
 udp://tracker.seedceo.vn:2710/announce
 
 udp://tracker.segso.net:6969/announce
+
+udp://tracker.sela.st:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
 
