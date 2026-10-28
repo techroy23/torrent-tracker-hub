@@ -14,6 +14,8 @@ udp://103.196.36.31:6969/announce
 
 udp://103.251.166.126:6969/announce
 
+udp://103.27.158.117:1914/announce
+
 udp://103.30.17.23:6969/announce
 
 udp://104.131.98.232:6969/announce
@@ -2616,6 +2618,8 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://opentracker.xyz:443/announce
 
+udp://opentracker2.lain.moscow:6969/announce
+
 udp://opentrackr.org:1337/announce
 
 udp://openwrt.lingyurouqing.xyz:6969/announce
@@ -3113,6 +3117,8 @@ udp://tracker.emule.best:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.etree.org:6969/announce
+
+udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.ex.ua:80/announce
 
