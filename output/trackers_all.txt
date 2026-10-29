@@ -7920,6 +7920,8 @@ https://fbiagent.cyou/announce
 
 https://fxtt.ru/announce
 
+https://gargoyleperch.de/announce
+
 https://grifon.info/announce
 
 https://gwp2-v19.rinet.ru/announce
@@ -8497,6 +8499,8 @@ https://tracker.yemekyedim.com/announce
 https://tracker.yggleak.top/announce
 
 https://tracker.yoshi210.com:6969/announce
+
+https://tracker.yume-hatsuyuki.moe/announce
 
 https://tracker.zhuqiy.com/announce
 
