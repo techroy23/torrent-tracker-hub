@@ -526,6 +526,8 @@ http://177.16.198.108:6969/announce
 
 http://177.16.198.58:6969/announce
 
+http://177.16.198.72:6969/announce
+
 http://177.172.61.236:6969/announce
 
 http://177.172.61.249:6969/announce
