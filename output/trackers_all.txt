@@ -2230,6 +2230,8 @@ udp://dht.bt251.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://discover.curiousfacts.blog:6969/announce
+
 udp://divxhunt.me:80/announce
 
 udp://dmitrynegoda.com:6969/announce
