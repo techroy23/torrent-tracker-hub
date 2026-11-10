@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 11-09-2026
+! Updated: 11-10-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -343,6 +343,7 @@
 @@||hcbt.pp.ua^$important
 @@||hdpt.xyz^$important
 @@||hdreactor.org^$important
+@@||hidden.torrentonline.cc^$important
 @@||hificode.in^$important
 @@||highteahop.top^$important
 @@||home.kray.pw^$important
@@ -897,6 +898,7 @@
 @@||tracker.ali213.net00^$important
 @@||tracker.ali213.net80^$important
 @@||tracker.ali213.net^$important
+@@||tracker.alt.cx^$important
 @@||tracker.altrosky.nl^$important
 @@||tracker.amelia.fun^$important
 @@||tracker.anibt.net^$important
