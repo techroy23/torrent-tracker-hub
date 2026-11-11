@@ -494,6 +494,8 @@ http://177.112.215.129:6969/announce
 
 http://177.112.215.131:6969/announce
 
+http://177.112.215.133:6969/announce
+
 http://177.112.215.160:6969/announce
 
 http://177.112.215.4:6969/announce
