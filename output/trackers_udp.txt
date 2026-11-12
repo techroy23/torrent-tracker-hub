@@ -1994,6 +1994,8 @@ udp://anisaishuu.de:2710/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
+udp://announce.augrains.com:6969/announce
+
 udp://announce.opensharing.org:2710/announce
 
 udp://anzix.net:6969/announce
