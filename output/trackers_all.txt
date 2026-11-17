@@ -34,6 +34,8 @@ udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://107.189.11.58:6969/announce
 
+udp://107.189.2.131:1337/announce
+
 udp://107.189.3.200:6969/announce
 
 udp://107.189.4.235:1337/announce
@@ -3317,8 +3319,6 @@ http://107.152.127.9:6969/announce
 http://107.152.45.140/announce
 
 http://107.189.10.20.sslip.io:7777/announce
-
-http://107.189.2.131:1337/announce
 
 http://107.189.31.134:6969/announce
 
