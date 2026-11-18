@@ -3252,8 +3252,6 @@ udp://tracker.prq.to/announce
 
 wss://qot.abiir.top/announce
 
-wss://qot.abiir.top:443/announce
-
 wss://spacetradersapi-chatbox.herokuapp.com/announce
 
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
@@ -6235,6 +6233,8 @@ http://widemus.de:6969/announce
 http://wtorrent.manalejandro.com:443/announce
 
 http://www.all4nothin.net/announce
+
+http://www.all4nothin.net/announce.php
 
 http://www.ansktracker.net/announce
 

@@ -1,7 +1,5 @@
 wss://qot.abiir.top/announce
 
-wss://qot.abiir.top:443/announce
-
 wss://spacetradersapi-chatbox.herokuapp.com/announce
 
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
