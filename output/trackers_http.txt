@@ -534,6 +534,8 @@ http://177.172.66.210:6969/announce
 
 http://177.172.66.223:6969/announce
 
+http://177.172.66.244:6969/announce
+
 http://177.172.66.2:6969/announce
 
 http://177.172.67.13:6969/announce
@@ -831,6 +833,8 @@ http://189.79.13.107:6969/announce
 http://189.79.13.111:6969/announce
 
 http://189.79.13.198:6969/announce
+
+http://190.22.55.78:1337/announce
 
 http://191.23.121.129:6969/announce
 
@@ -1289,6 +1293,8 @@ http://45.67.35.111:6969/announce
 http://45.7.231.102/announce
 
 http://46.17.46.112:8080/announce
+
+http://46.188.15.49:6969/announce
 
 http://46.231.241.43:6969/announce
 
@@ -2136,6 +2142,8 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.io/announce
 
+http://opentracker.lain.moscow:6969/announce
+
 http://opentracker.xyz/announce
 
 http://opentrackr.org:1337/announce
@@ -2696,6 +2704,8 @@ http://tracker.nyacat.pw:7000/announce
 
 http://tracker.nyap2p.com:8080/announce
 
+http://tracker.okade.pro:1337/announce
+
 http://tracker.openbittorrent.com/announce
 
 http://tracker.openbittorrrent.com/announce
@@ -2953,8 +2963,6 @@ http://widemus.de:6969/announce
 http://wtorrent.manalejandro.com:443/announce
 
 http://www.all4nothin.net/announce
-
-http://www.all4nothin.net/announce.php
 
 http://www.ansktracker.net/announce
 

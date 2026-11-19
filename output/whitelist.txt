@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 11-18-2026
+! Updated: 11-19-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -588,9 +588,11 @@
 @@||t1.aag.moe^$important
 @@||t1.chfs.ch^$important
 @@||t1.hloli.org^$important
+@@||t1.itrus.su^$important
 @@||t1.leech.ie^$important
 @@||t1.pow7.com^$important
 @@||t1.tokhmi.xyz^$important
+@@||t2.itrus.su^$important
 @@||t2.leech.ie^$important
 @@||t2.pow7.com^$important
 @@||t3.leech.ie^$important

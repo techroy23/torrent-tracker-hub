@@ -122,6 +122,8 @@ udp://120.78.150.131:6969/announce
 
 udp://121.199.16.229:6969/announce
 
+udp://123.245.62.62:6969/announce
+
 udp://125.227.79.123:6969/announce
 
 udp://125.227.79.123:80/announce
@@ -382,6 +384,8 @@ udp://177.172.66.210:6969/announce
 
 udp://177.172.66.223:6969/announce
 
+udp://177.172.66.244:6969/announce
+
 udp://177.172.66.2:6969/announce
 
 udp://177.172.67.13:6969/announce
@@ -479,6 +483,8 @@ udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
 
 udp://184.105.226.26:6969/announce
+
+udp://184.174.97.26:6969/announce
 
 udp://185.100.85.201:6969/announce
 
@@ -670,6 +676,8 @@ udp://189.79.13.198:6969/announce
 
 udp://190.146.242.81:6969/announce
 
+udp://190.22.55.78:1337/announce
+
 udp://191.101.229.236:1337/announce
 
 udp://191.23.121.129:6969/announce
@@ -739,6 +747,8 @@ udp://193.53.126.6:6961/announce
 udp://194.106.216.222:80/announce
 
 udp://194.110.247.18:6969/announce
+
+udp://194.169.160.46:1212/announce
 
 udp://194.195.86.132:6969/announce
 
@@ -1569,6 +1579,8 @@ udp://84.54.51.78:6969/announce
 udp://85.121.148.217:2710/announce
 
 udp://85.121.5.80:6969/announce
+
+udp://85.159.231.214:1212/announce
 
 udp://85.17.19.180:80/announce
 
@@ -2432,7 +2444,11 @@ udp://t.zerg.pw:6969/announce
 
 udp://t1.chfs.ch:6969/announce
 
+udp://t1.itrus.su:1212/announce
+
 udp://t1.pow7.com:6969/announce
+
+udp://t2.itrus.su:1212/announce
 
 udp://t2.leech.ie:1337/announce
 
@@ -2555,6 +2571,8 @@ udp://tracker.1048576.cn:17272/announce
 udp://tracker.1337x.org:80/announce
 
 udp://tracker.1h.is:1337/announce
+
+udp://tracker.23794.top:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
