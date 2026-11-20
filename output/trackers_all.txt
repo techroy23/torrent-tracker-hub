@@ -676,6 +676,8 @@ udp://189.79.13.198:6969/announce
 
 udp://190.146.242.81:6969/announce
 
+udp://190.22.49.98:1337/announce
+
 udp://190.22.55.78:1337/announce
 
 udp://191.101.229.236:1337/announce
@@ -3048,6 +3050,8 @@ udp://tracker.xor.st:6969/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
+udp://tracker.ygg.okade.pro:1337/announce
+
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3272,15 +3276,23 @@ wss://qot.abiir.top/announce
 
 wss://spacetradersapi-chatbox.herokuapp.com/announce
 
+wss://spacetradersapi-chatbox.herokuapp.com:443/announce
+
 wss://tracker.btorrent.xyz/announce
 
+wss://tracker.btorrent.xyz:443/announce
+
 wss://tracker.dnlab.net/announce
+
+wss://tracker.dnlab.net:443/announce
 
 wss://tracker.files.fm:7073/announce
 
 wss://tracker.ghostchu-services.top/announce
 
 wss://tracker.magnetoo.io/announce
+
+wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.openwebtorrent.com/announce
 
@@ -4123,6 +4135,8 @@ http://189.79.13.107:6969/announce
 http://189.79.13.111:6969/announce
 
 http://189.79.13.198:6969/announce
+
+http://190.22.49.98:1337/announce
 
 http://190.22.55.78:1337/announce
 
@@ -6134,6 +6148,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
+http://tracker.ygg.okade.pro:1337/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -6209,6 +6225,8 @@ http://tracker5.torrentino.com/announce
 http://tracker810.xyz:11450/announce
 
 http://tracker9.bol.bg/announce
+
+http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p/announce
 
 http://trackers.ibzu.me/announce
 

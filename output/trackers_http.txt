@@ -834,6 +834,8 @@ http://189.79.13.111:6969/announce
 
 http://189.79.13.198:6969/announce
 
+http://190.22.49.98:1337/announce
+
 http://190.22.55.78:1337/announce
 
 http://191.23.121.129:6969/announce
@@ -2844,6 +2846,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
+http://tracker.ygg.okade.pro:1337/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -2919,6 +2923,8 @@ http://tracker5.torrentino.com/announce
 http://tracker810.xyz:11450/announce
 
 http://tracker9.bol.bg/announce
+
+http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p/announce
 
 http://trackers.ibzu.me/announce
 
