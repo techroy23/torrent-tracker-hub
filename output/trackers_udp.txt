@@ -122,6 +122,8 @@ udp://120.78.150.131:6969/announce
 
 udp://121.199.16.229:6969/announce
 
+udp://123.245.62.58:6969/announce
+
 udp://123.245.62.62:6969/announce
 
 udp://125.227.79.123:6969/announce
@@ -1448,6 +1450,8 @@ udp://81.7.10.104:6969/announce
 
 udp://82.156.24.219:6969/announce
 
+udp://82.192.67.238:6969/announce
+
 udp://82.65.115.10:6969/announce
 
 udp://82.67.44.197:9999/announce
@@ -2629,6 +2633,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 
 udp://tracker.btzoo.eu:80/announce
+
+udp://tracker.bunk.im:6969/announce
 
 udp://tracker.ccc.de:80/announce
 
