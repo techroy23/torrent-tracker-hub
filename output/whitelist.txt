@@ -2,7 +2,7 @@
 ! Title: Techroy23 Torrent Tracker Whitelist
 ! Description: Whitelisted domains
 ! Homepage: https://github.com/techroy23/torrent-tracker-hub
-! Updated: 11-25-2026
+! Updated: 11-26-2026
 
 @@||a.leopard-raws.org^$important
 @@||aaa.army^$important
@@ -320,6 +320,7 @@
 @@||kristof.bartanet.cz^$important
 @@||laestrygonian.ooguy.com^$important
 @@||laszlo130.go.ro^$important
+@@||lattice.peerrelay.workers.dev^$important
 @@||laxclax.ddns.net00^$important
 @@||laxclax.ddns.net^$important
 @@||laze.cc^$important

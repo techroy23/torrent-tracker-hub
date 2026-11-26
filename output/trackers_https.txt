@@ -220,6 +220,8 @@ https://k.avc.cx/announce
 
 https://k3tracker.cc/announce
 
+https://lattice.peerrelay.workers.dev/announce
+
 https://lima-peru.subventas.com/announce
 
 https://mathkangaroo.jp/announce
